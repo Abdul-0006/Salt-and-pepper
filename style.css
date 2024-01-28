@@ -240,3 +240,377 @@ i {
   text-align: center;
   padding-top: 8px;
 }
+.row2 {
+  position: absolute;
+  top: 1000px;
+  left: 50px;
+  width: 100%;
+  height: 500px;
+
+  display: flow-root;
+}
+.item4 {
+  display: flow-root;
+  position: absolute;
+  top: 60px;
+  left: 110px;
+  width: 330px;
+  height: 400px;
+}
+.item4 img {
+  width: 330px;
+  height: 225px;
+}
+.price4 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order4 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item5 {
+  display: flow-root;
+  position: absolute;
+  top: 1px;
+  left: 400px;
+  width: 330px;
+  height: 400px;
+}
+.item5 img {
+  width: 330px;
+  height: 225px;
+}
+.price5 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order5 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item6 {
+  display: flow-root;
+  position: absolute;
+  top: -1px;
+  left: 400px;
+  width: 330px;
+  height: 400px;
+}
+.price6 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order6 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item7 {
+  display: flow-root;
+  position: absolute;
+  top: 480px;
+  left: -801px;
+  width: 330px;
+  height: 400px;
+}
+.price7 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order7 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item8 {
+  display: flow-root;
+  position: absolute;
+  top: 1px;
+  left: 400px;
+  width: 330px;
+  height: 400px;
+}
+.price8 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order8 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item9 {
+  display: flow-root;
+  position: absolute;
+  top: -1px;
+  left: 801px;
+  width: 330px;
+  height: 400px;
+}
+.price9 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order9 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item10 {
+  display: flow-root;
+  position: absolute;
+  top: 555px;
+  left: 1px;
+  width: 330px;
+  height: 400px;
+}
+.price10 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order10 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item11 {
+  display: flow-root;
+  position: absolute;
+  top: 555px;
+  left: 400px;
+  width: 330px;
+  height: 400px;
+}
+.price11 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order11 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.item12 {
+  display: flow-root;
+  position: absolute;
+  top: 555px;
+  left: 801px;
+  width: 330px;
+  height: 400px;
+}
+.price12 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.order12 {
+  position: absolute;
+  left: 106px;
+  top: 345px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  height: 25px;
+  width: 120px;
+  text-align: center;
+  padding-top: 8px;
+}
+.footer {
+  position: absolute;
+  top: 1000px;
+  width: 420%;
+  height: 580px;
+  margin-left: -135px;
+  background-color: #0f0f0f;
+}
+.footer img {
+  max-width: 100%;
+  width: 140px;
+  height: 64px;
+}
+.footimg {
+  margin: 85px;
+  margin-left: 100px;
+}
+.bcs {
+  font-weight: 900;
+  font-size: 700px;
+  color: rgb(5, 5, 5);
+  display: inline;
+  background-size: cover;
+  position: absolute;
+  top: -580px;
+  opacity: 0.1;
+  left: 70px;
+
+  text-align: center;
+}
+.res {
+  position: absolute;
+  top: 100px;
+  width: 320px;
+  left: 102px;
+}
+.resdes {
+  position: absolute;
+  top: 50px;
+  color: rgba(255, 255, 255, 0.7);
+}
+.cp {
+  position: absolute;
+  top: 210px;
+  color: rgba(255, 255, 255, 0.7);
+}
+.links {
+  position: absolute;
+  top: 80px;
+  left: 505px;
+}
+.links ul li {
+  padding: 10px;
+  list-style: none;
+  color: rgba(255, 255, 255, 0.7);
+}
+.bo {
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.7);
+}
+.links1 {
+  position: absolute;
+  top: 80px;
+  left: 780px;
+  width: 200px;
+}
+.links1 ul li {
+  padding: 10px;
+  list-style: none;
+  color: rgba(255, 255, 255, 0.7);
+}
+h3 {
+  display: inline;
+  position: absolute;
+  top: 80px;
+  left: 1080px;
+  width: 200px;
+  color: rgba(255, 255, 255, 0.7);
+}
+.icon1 {
+  display: inline;
+  position: absolute;
+  top: 130px;
+  left: 1080px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+}
+.icon2 {
+  display: inline;
+  position: absolute;
+  top: 130px;
+  left: 1130px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+}
+.icon3 {
+  display: inline;
+  position: absolute;
+  top: 130px;
+  left: 1180px;
+  background-color: #ed1c24;
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+}
+.icon1 i {
+  padding: 14px;
+}
+.icon2 i {
+  padding: 14px;
+}
+.icon3 i {
+  padding: 14px;
+}
+.google {
+  list-style: none;
+}
+.links2 {
+  position: absolute;
+  top: 200px;
+  left: 1040px;
+  list-style: none;
+}
+.links2 ul li a #gli {
+  height: 44px;
+  width: 141px;
+  padding: 5px;
+}
+.fin {
+  position: absolute;
+  top: 228px;
+  left: -1000px;
+  width: 700%;
+  border-top: 1px white solid;
+  padding: 5px;
+  color: rgba(255, 255, 255, 0.7);
+}
